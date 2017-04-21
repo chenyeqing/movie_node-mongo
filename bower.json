@@ -1,0 +1,26 @@
+{
+  "name": "movie",
+  "version": "0.0.1",
+  "authors": [
+    "cyq"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests",
+    "public/libs"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "description": "node+mongodb",
+  "main": "",
+  "homepage": ""
+}
